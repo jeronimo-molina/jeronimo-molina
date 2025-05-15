@@ -1,7 +1,9 @@
 # Hi there 👋
 # Welcome to my GitHub Profile!
 
-I'm **Jerônimo de Rossi Molina**, a data scientist and currently a PhD candidate in History at the University of Passo Fundo (Brazil), researching in the fields of International Politics and Geopolitics. My projects and academic research focus on predicting the behavior of agents (people, countries, weather, and even animals) acting in social, geographic, or political environments. Here, you can find research spanning from Business to Social Sciences; from Political Science to Agriculture; from Conceptual History to Computer Science. This is an interdisciplinary scientific approach, merging data science with various fields and databases.
+I'm **Jerônimo de Rossi Molina**, CEO at Urbano Applied Research and Innovation & Technology Manager at InovaRS. I work at the intersection of machine learning, artificial intelligence, and AIoT (Artificial Intelligence of Things), developing integrated hardware and software solutions for real-world challenges. My focus is on designing and implementing predictive systems that support decision-making in dynamic environments—whether in urban infrastructure, public management, or industry.
+
+Here, you’ll find a portfolio that bridges data science with applied technology, showcasing projects that range from smart devices to intelligent systems across sectors such as business, agriculture, and public services. This is a practical and interdisciplinary approach to innovation, where algorithms meet action.
 
 # Tech Knowledge
 
