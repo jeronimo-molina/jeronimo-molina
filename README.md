@@ -11,9 +11,11 @@ Here you get some projetcs (personal or public) that represents my reaserch fiel
 
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ### Learning
-![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 # Data Science
 
@@ -35,16 +37,18 @@ I'm already know a lot for statistics using paid softwares like SPSS or SAS, but
 ## Backend, APIs, Containers and other stuff
 ![Flask](https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node_JS-green?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 
 ## OS
+![Arch](https://img.shields.io/badge/Arch-blue?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-purple?style=for-the-badge&logo=hyprland&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-# Working Projects (Repo)
 
-[![Python Essentials](https://github-readme-stats.vercel.app/api/pin/?username=jeronimo-molina&repo=python-essentials&theme=merko)](https://github.com/jeronimo-molina/python-essentials)
-[![Bulb App](https://github-readme-stats.vercel.app/api/pin/?username=jeronimo-molina&repo=bulb-app&theme=merko)](https://github.com/jeronimo-molina/bulb-app)
+# Working Projects (Repo)
+![Bulb Temperature](https://img.shields.io/badge/Bulb-Temperature-red?style=for-the-badge)
+
+
 
 
