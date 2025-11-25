@@ -1,7 +1,9 @@
 # Hi there 👋
 # Welcome to my GitHub Profile!
 
-I'm **Jerônimo de Rossi Molina**, CEO at Urbano Applied Research and Innovation & Technology Manager at InovaRS. I work at the intersection of machine learning, artificial intelligence, and AIoT (Artificial Intelligence of Things), developing integrated hardware and software solutions for real-world challenges. My focus is on designing and implementing predictive systems that support decision-making in dynamic environments—whether in urban infrastructure, public management, or industry.
+I'm **Jerônimo de Rossi Molina**, owner of Urbano Estratégia, a software and consultant company for HNW/UHNW people and, Innovation & Technology Manager at governmental innovative programm InovaRS. 
+
+I work at the intersection of machine learning, artificial intelligence, simulating agents and AIoT (Artificial Intelligence of Things), developing integrated hardware and software solutions for real-world challenges. My focus is on designing and implementing predictive systems that support decision-making in dynamic environments—whether in urban infrastructure, public management, or industry.
 
 Here, you’ll find a portfolio that bridges data science with applied technology, showcasing projects that range from smart devices to intelligent systems across sectors such as business, agriculture, and public services. This is a practical and interdisciplinary approach to innovation, where algorithms meet action.
 
@@ -47,7 +49,13 @@ I'm already know a lot for statistics using paid softwares like SPSS or SAS, but
 
 
 # Working Projects (Repo)
-![Bulb Temperature](https://img.shields.io/badge/Bulb-Temperature-red?style=for-the-badge)
+
+Here is my working projects, in three aspects: PhD research, my company and personal.
+
+![Bulb Temperature](https://img.shields.io/badge/Bulb-Temperature-red?style=for-the-badge&labelColor=grey&link=https://bulb-temperature.onrender.com)
+![Wayquis](https://img.shields.io/badge/Wayquis-Digital%20Garden-orange?style=for-the-badge&labelColor=grey)
+
+
 
 
 
