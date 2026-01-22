@@ -14,7 +14,8 @@ Here you get some projetcs (personal or public) that represents my reaserch fiel
 ### Learning
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-yellow?style=flat&logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
+
 
 
 # Data Science
