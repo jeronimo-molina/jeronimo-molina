@@ -1,11 +1,7 @@
 # Hi there 👋
 # Welcome to my GitHub Profile!
 
-I'm **Jerônimo de Rossi Molina**, owner of Urbano Estratégia, a software and consultant company for HNW/UHNW people and, Innovation & Technology Manager at governmental innovative programm InovaRS. 
-
-I work at the intersection of machine learning, artificial intelligence, simulating agents and AIoT (Artificial Intelligence of Things), developing integrated hardware and software solutions for real-world challenges. My focus is on designing and implementing predictive systems that support decision-making in dynamic environments—whether in urban infrastructure, public management, or industry.
-
-Here, you’ll find a portfolio that bridges data science with applied technology, showcasing projects that range from smart devices to intelligent systems across sectors such as business, agriculture, and public services. This is a practical and interdisciplinary approach to innovation, where algorithms meet action.
+At the nexus between critical administrative theory, the rigor of Law, and data engineering, we design solutions for high-complexity environments. Our professional practice is based on the deconstruction of managerialist models in favor of evidence-based governance and fiduciary security. We work on the articulation of institutional intelligence and cutting-edge technology to ensure the integrity of transactions and regulatory predictability.
 
 # Tech Knowledge
 
@@ -18,6 +14,8 @@ Here you get some projetcs (personal or public) that represents my reaserch fiel
 ### Learning
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-yellow?style=flat&logo=huggingface&logoColor=white)
+
 
 # Data Science
 
